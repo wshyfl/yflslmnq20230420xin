@@ -1,0 +1,83 @@
+
+btn3.png
+size: 700,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn26
+  rotate: false
+  xy: 308, 11
+  size: 28, 24
+  orig: 82, 72
+  offset: 25, 26
+  index: -1
+btn32
+  rotate: true
+  xy: 537, 51
+  size: 126, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+btn33
+  rotate: false
+  xy: 621, 52
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+btn34
+  rotate: false
+  xy: 621, 52
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+btn35
+  rotate: false
+  xy: 2, 91
+  size: 246, 86
+  orig: 246, 86
+  offset: 0, 0
+  index: -1
+btn36
+  rotate: false
+  xy: 447, 59
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+btn37
+  rotate: false
+  xy: 245, 19
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+btn38
+  rotate: true
+  xy: 380, 8
+  size: 169, 65
+  orig: 169, 65
+  offset: 0, 0
+  index: -1
+btn39
+  rotate: false
+  xy: 2, 27
+  size: 241, 62
+  orig: 241, 62
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 447, 2
+  size: 55, 56
+  orig: 65, 65
+  offset: 4, 5
+  index: -1
+yanwu_0037
+  rotate: false
+  xy: 250, 49
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

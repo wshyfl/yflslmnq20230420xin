@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c1ed43d2-1788-4ba7-8e29-f26991295125",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "sl_img_tanCeQi_1": {
+      "ver": "1.0.4",
+      "uuid": "7b87948c-b21d-4673-ac39-22f8c732adb0",
+      "rawTextureUuid": "c1ed43d2-1788-4ba7-8e29-f26991295125",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 229,
+      "rawWidth": 100,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2d312f48-152b-4196-b459-ce1a6f330cad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 289,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "AM激光手雷": {
+      "ver": "1.0.4",
+      "uuid": "7638190c-69c3-4fdb-8c7b-5835bff0213d",
+      "rawTextureUuid": "2d312f48-152b-4196-b459-ce1a6f330cad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 289,
+      "height": 50,
+      "rawWidth": 289,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

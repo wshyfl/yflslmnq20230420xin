@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "da9da8f6-7c99-48e3-92e1-4b096c530bf7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 482,
+  "height": 196,
+  "platformSettings": {},
+  "subMetas": {
+    "使用扫雷器寻找地雷，离地雷越近，声音越急促。当在地雷正上方后，扫雷器提示灯会亮起，记住位置，使用铲子挖出地雷。正确时间+3秒，": {
+      "ver": "1.0.4",
+      "uuid": "a2121957-f412-40f2-a86f-f1cebf20f76d",
+      "rawTextureUuid": "da9da8f6-7c99-48e3-92e1-4b096c530bf7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 482,
+      "height": 196,
+      "rawWidth": 482,
+      "rawHeight": 196,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

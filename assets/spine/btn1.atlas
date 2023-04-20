@@ -1,0 +1,34 @@
+
+btn1.png
+size: 209,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn2
+  rotate: false
+  xy: 2, 52
+  size: 130, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+btn3
+  rotate: false
+  xy: 134, 52
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+btn4
+  rotate: false
+  xy: 134, 52
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+btn5
+  rotate: false
+  xy: 2, 2
+  size: 182, 48
+  orig: 182, 48
+  offset: 0, 0
+  index: -1

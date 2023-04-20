@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cbec3cb5-012e-47fc-8bbb-5ba6c44af125",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 500,
+  "platformSettings": {},
+  "subMetas": {
+    "激光_02": {
+      "ver": "1.0.4",
+      "uuid": "311cae8f-fb18-4308-b97b-639723f566bd",
+      "rawTextureUuid": "cbec3cb5-012e-47fc-8bbb-5ba6c44af125",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9.5,
+      "offsetY": 6.5,
+      "trimX": 19,
+      "trimY": 15,
+      "width": 481,
+      "height": 457,
+      "rawWidth": 500,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

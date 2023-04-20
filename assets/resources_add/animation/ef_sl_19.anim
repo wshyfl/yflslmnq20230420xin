@@ -1,0 +1,221 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_sl_19",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.375,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "sl_19_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -7,
+                0
+              ],
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": [
+                0,
+                78.557,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "sl_19_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                7,
+                0
+              ],
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": [
+                0,
+                -79.597,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "sl_19_5": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.518
+              },
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "sl_19_5 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.518
+              },
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "New Node": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.20833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "New Node copy": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.20833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "sl_19_2/sl_19_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.625,
+              "value": 255
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.4583333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.7916666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.0416666666666665,
+              "value": 255
+            },
+            {
+              "frame": 2.2083333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.375,
+              "value": 255
+            },
+            {
+              "frame": 2.5416666666666665,
+              "value": 0
+            },
+            {
+              "frame": 2.7083333333333335,
+              "value": 255
+            },
+            {
+              "frame": 2.875,
+              "value": 0
+            },
+            {
+              "frame": 3.0416666666666665,
+              "value": 255
+            },
+            {
+              "frame": 3.2083333333333335,
+              "value": 0
+            },
+            {
+              "frame": 3.375,
+              "value": 255
+            },
+            {
+              "frame": 3.5416666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3.7083333333333335,
+              "value": 255
+            },
+            {
+              "frame": 3.875,
+              "value": 0
+            },
+            {
+              "frame": 4.041666666666667,
+              "value": 255
+            },
+            {
+              "frame": 4.208333333333333,
+              "value": 0
+            },
+            {
+              "frame": 4.375,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "44b2189c-ee7c-4581-be52-7b77db3a33c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 500,
+  "platformSettings": {},
+  "subMetas": {
+    "电磁_07": {
+      "ver": "1.0.4",
+      "uuid": "90be1cc2-7dcb-4148-b7b2-95901ccc20b3",
+      "rawTextureUuid": "44b2189c-ee7c-4581-be52-7b77db3a33c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 34.5,
+      "trimX": 0,
+      "trimY": 8,
+      "width": 491,
+      "height": 415,
+      "rawWidth": 500,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "484b89d9-6c85-4424-8551-e767863830eb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 307,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "RG6电磁手雷": {
+      "ver": "1.0.4",
+      "uuid": "bd2ef07c-cf08-4735-9363-d2ad4328ac34",
+      "rawTextureUuid": "484b89d9-6c85-4424-8551-e767863830eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 50,
+      "rawWidth": 307,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

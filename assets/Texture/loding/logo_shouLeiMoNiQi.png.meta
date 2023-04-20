@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "688c2dc5-cc28-43e6-9822-c15cd0ccdf25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 596,
+  "height": 289,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_shouLeiMoNiQi": {
+      "ver": "1.0.4",
+      "uuid": "336bb667-dded-4d68-8e6b-36b12ee2564f",
+      "rawTextureUuid": "688c2dc5-cc28-43e6-9822-c15cd0ccdf25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 596,
+      "height": 289,
+      "rawWidth": 596,
+      "rawHeight": 289,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

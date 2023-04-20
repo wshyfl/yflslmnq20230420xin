@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "73c238f1-2858-4644-8d27-32ea3f869b4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 182,
+  "platformSettings": {},
+  "subMetas": {
+    "yxn_dk_shouLei_icon_2": {
+      "ver": "1.0.4",
+      "uuid": "d63f2125-801c-4ba3-8f86-8ce32852b370",
+      "rawTextureUuid": "73c238f1-2858-4644-8d27-32ea3f869b4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 182,
+      "rawWidth": 180,
+      "rawHeight": 182,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

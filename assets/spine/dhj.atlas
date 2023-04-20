@@ -1,0 +1,20 @@
+
+dhj.png
+size: 416,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sl_12_3
+  rotate: true
+  xy: 2, 2
+  size: 263, 305
+  orig: 263, 305
+  offset: 0, 0
+  index: -1
+sl_12_4
+  rotate: false
+  xy: 309, 76
+  size: 105, 189
+  orig: 113, 202
+  offset: 5, 8
+  index: -1

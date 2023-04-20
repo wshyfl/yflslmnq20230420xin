@@ -1,0 +1,18 @@
+{
+  "package": "com.wbgame.slmnq.vivominigame",
+  "name": "手雷模拟器",
+  "icon": "G:\\kang\\cocos\\shouleiyouxi0206\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1100",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "G:\\kang\\aakeys\\private.pem",
+  "certificatePath": "G:\\kang\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

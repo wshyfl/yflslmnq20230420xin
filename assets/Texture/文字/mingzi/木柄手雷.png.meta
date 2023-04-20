@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "da090d24-3848-48aa-9003-c10056e83de6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 199,
+  "height": 49,
+  "platformSettings": {},
+  "subMetas": {
+    "木柄手雷": {
+      "ver": "1.0.4",
+      "uuid": "c637e54f-9bb3-4a3a-8dde-f1ef49ef2086",
+      "rawTextureUuid": "da090d24-3848-48aa-9003-c10056e83de6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 199,
+      "height": 49,
+      "rawWidth": 199,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
